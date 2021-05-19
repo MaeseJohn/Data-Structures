@@ -1,0 +1,18 @@
+Preorden: 
+[1 (4, 4) 15.00 - 2 (1, 1) 1.00 rojo 3 (5, 5) -9.00 azul 4 (50, 50) -6.00 azul 5 (2, 2) 25.00 verde 6 (20, 20) 22.00 verde 7 (3, 3) 30.00 amarillo]
+Postorden: 
+[1 (50, 50) -6.00 azul 2 (5, 5) -9.00 azul 3 (1, 1) 1.00 rojo 4 (20, 20) 22.00 verde 5 (3, 3) 30.00 amarillo 6 (2, 2) 25.00 verde 7 (4, 4) 15.00 -]
+Inorden: 
+[1 (5, 5) -9.00 azul 2 (50, 50) -6.00 azul 3 (1, 1) 1.00 rojo 4 (4, 4) 15.00 - 5 (20, 20) 22.00 verde 6 (2, 2) 25.00 verde 7 (3, 3) 30.00 amarillo]
+Niveles: 
+[1 (4, 4) 15.00 - 2 (1, 1) 1.00 rojo 3 (2, 2) 25.00 verde 4 (5, 5) -9.00 azul 5 (20, 20) 22.00 verde 6 (3, 3) 30.00 amarillo 7 (50, 50) -6.00 azul]
+
+Preorden: 
+[1 (1, 1) 1.00 rojo 2 (5, 5) -9.00 azul 3 (50, 50) -6.00 azul 4 (2, 2) 25.00 verde 5 (20, 20) 22.00 verde 6 (3, 3) 30.00 amarillo]
+Postorden: 
+[1 (50, 50) -6.00 azul 2 (5, 5) -9.00 azul 3 (20, 20) 22.00 verde 4 (3, 3) 30.00 amarillo 5 (2, 2) 25.00 verde 6 (1, 1) 1.00 rojo]
+Inorden: 
+[1 (5, 5) -9.00 azul 2 (50, 50) -6.00 azul 3 (1, 1) 1.00 rojo 4 (20, 20) 22.00 verde 5 (2, 2) 25.00 verde 6 (3, 3) 30.00 amarillo]
+Niveles: 
+[1 (1, 1) 1.00 rojo 2 (5, 5) -9.00 azul 3 (2, 2) 25.00 verde 4 (50, 50) -6.00 azul 5 (20, 20) 22.00 verde 6 (3, 3) 30.00 amarillo]
+

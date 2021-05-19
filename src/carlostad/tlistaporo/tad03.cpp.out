@@ -1,0 +1,10 @@
+******TESTING OPERATOR==, BORRAR, OBTENER, BUSCAR******
+Correcto, son iguales
+Correcto, son iguales
+Correcto, debe borrarlo
+((5, 5) -9.00 azul (2, 2) 25.00 verde)
+(5, 5) -9.00 azul
+()
+(4, 4) 15.00 -
+Correcto, objeto encontrado
+Correcto, el objeto no está en la lista

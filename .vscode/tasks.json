@@ -1,0 +1,33 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "cppbuild",
+			"label": "PutoCarlosSeSacaLaPoronga",
+			"command": "/usr/bin/g++",
+			"args": [
+				"-g",
+				"-Wall",
+				"${file}",
+				"lib/*.cpp",
+				"-Iinclude",
+				"-o",
+				"tad"
+				// "lib/tporo.o",
+				// "lib/tvectorporo.o"
+
+			],
+			"options": {
+				"cwd": "${workspaceFolder}"
+			},
+			"problemMatcher": [
+				"$gcc"
+			],
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"detail": "compilador: /usr/bin/g++"
+		},
+	]
+}

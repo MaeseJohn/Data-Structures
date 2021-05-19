@@ -1,0 +1,25 @@
+******TESTING DESTRUCTOR, OPERATOR=, OPERATOR+, OPERATOR-******
+0
+()
+3
+(5, 5) -9.00 azul
+(2, 2) 25.00 verde
+((5, 5) -9.00 azul (1, 1) 1.00 rojo (2, 2) 25.00 verde)
+5
+(5, 5) -9.00 azul
+(3, 3) 30.00 amarillo
+((5, 5) -9.00 azul (1, 1) 1.00 rojo (4, 4) 15.00 - (2, 2) 25.00 verde (3, 3) 30.00 amarillo)
+2
+(1, 1) 1.00 rojo
+(2, 2) 25.00 verde
+((1, 1) 1.00 rojo (2, 2) 25.00 verde)
+0
+()
+()
+()
+3
+(5, 5) -9.00 azul
+(2, 2) 25.00 verde
+((5, 5) -9.00 azul (1, 1) 1.00 rojo (2, 2) 25.00 verde)
+0
+()

@@ -1,0 +1,8 @@
+Preorden:
+[1 (1, 1) 1.00 rojo 2 (5, 5) -9.00 azul 3 (2, 2) 25.00 verde 4 (4, 4) 15.00 - 5 (3, 3) 30.00 amarillo]
+Postorden:
+[1 (5, 5) -9.00 azul 2 (4, 4) 15.00 - 3 (3, 3) 30.00 amarillo 4 (2, 2) 25.00 verde 5 (1, 1) 1.00 rojo]
+Inorden:
+[1 (5, 5) -9.00 azul 2 (1, 1) 1.00 rojo 3 (4, 4) 15.00 - 4 (2, 2) 25.00 verde 5 (3, 3) 30.00 amarillo]
+Niveles:
+[1 (1, 1) 1.00 rojo 2 (5, 5) -9.00 azul 3 (2, 2) 25.00 verde 4 (4, 4) 15.00 - 5 (3, 3) 30.00 amarillo]
